@@ -5,4 +5,6 @@ After connecting my microsoft access file to my python code, I did 4 basic manip
 3) Iterating
 4) Searching
 
+Here is a screenshot below of what my console returned:
+
 ![image](https://github.com/CharlesCastelot/Microsoft_Access/assets/89413211/ae03dac2-f52a-4f60-a1df-4ea2d77b5f41)
